@@ -1,0 +1,1001 @@
+﻿TRIAL,BVP,BVPFLAG,TEMP,TEMPFLAG,EDA,EDAFLAG,Gender,Race,Education Level,Employment,FINALFLAG
+1,101.20,0,36.78,0,0.082,0,Male,White,High School Graduate,Unemployed,0
+2,-137.30,0,36.91,0,0.014,0,Male,White,High School Graduate,Unemployed,0
+3,-18.00,0,36.82,0,0.225,0,Male,White,High School Graduate,Unemployed,0
+4,38.00,0,37.05,0,0.099,0,Male,White,High School Graduate,Unemployed,0
+5,73.10,0,36.49,0,0.164,0,Male,White,High School Graduate,Unemployed,0
+6,-146.50,0,36.37,0,0.238,0,Male,White,High School Graduate,Unemployed,0
+7,88.70,0,36.55,0,0.169,0,Male,White,High School Graduate,Unemployed,0
+8,-37.10,0,37.16,0,0.143,0,Male,White,High School Graduate,Unemployed,0
+9,1.00,0,37.2,1,0.547,0,Male,White,High School Graduate,Unemployed,0
+10,119.50,0,37.11,0,0.796,0,Male,White,High School Graduate,Unemployed,0
+11,6.60,0,36.99,0,0.745,0,Male,White,High School Graduate,Unemployed,0
+12,139.30,0,37.16,0,0.233,0,Male,White,High School Graduate,Unemployed,0
+13,-45.30,0,36.69,0,0.115,0,Male,White,High School Graduate,Unemployed,0
+14,41.60,0,36.19,0,0.211,0,Male,White,High School Graduate,Unemployed,0
+15,145.10,0,36.83,0,0.626,0,Male,White,High School Graduate,Unemployed,0
+16,111.40,0,36.65,0,0.007,0,Male,White,High School Graduate,Unemployed,0
+17,-15.00,0,37.02,0,0.756,0,Male,White,High School Graduate,Unemployed,0
+18,98.10,0,36.48,0,0.09,0,Male,White,High School Graduate,Unemployed,0
+19,122.70,0,37.08,0,0.456,0,Male,White,High School Graduate,Unemployed,0
+20,58.80,0,36.95,0,0.287,0,Male,White,High School Graduate,Unemployed,0
+21,-58.90,0,36.51,0,0.22,0,Male,White,High School Graduate,Unemployed,0
+22,102.00,0,36.27,0,0.069,0,Male,White,High School Graduate,Unemployed,0
+23,-54.00,0,36.01,0,0.53,0,Male,White,High School Graduate,Unemployed,0
+24,97.90,0,37.06,0,0.65,0,Male,White,High School Graduate,Unemployed,0
+25,-103.30,0,36.29,0,0.49,0,Male,White,High School Graduate,Unemployed,0
+26,49.10,0,37.11,0,0.462,0,Male,White,High School Graduate,Unemployed,0
+27,82.90,0,37.09,0,0.077,0,Male,White,High School Graduate,Unemployed,0
+28,-70.90,0,36.59,0,0.779,0,Male,White,High School Graduate,Unemployed,0
+29,64.00,0,36.52,0,0.742,0,Male,White,High School Graduate,Unemployed,0
+30,-23.10,0,36.69,0,0.782,0,Male,White,High School Graduate,Unemployed,0
+31,34.70,0,36.62,0,0.55,0,Male,White,High School Graduate,Unemployed,0
+32,112.40,0,37.02,0,0.256,0,Male,White,High School Graduate,Unemployed,0
+33,-82.00,0,36.7,0,0.053,0,Male,White,High School Graduate,Unemployed,0
+34,-85.60,0,37.06,0,0.236,0,Male,White,High School Graduate,Unemployed,0
+35,-131.20,0,36.54,0,0.65,0,Male,White,High School Graduate,Unemployed,0
+36,34.60,0,36.91,0,0.689,0,Male,White,High School Graduate,Unemployed,0
+37,72.20,0,36.76,0,0.433,0,Male,White,High School Graduate,Unemployed,0
+38,19.70,0,36.45,0,0.385,0,Male,White,High School Graduate,Unemployed,0
+39,116.40,0,36.28,0,0.014,0,Male,White,High School Graduate,Unemployed,0
+40,54.10,0,36.55,0,0.345,0,Male,White,High School Graduate,Full Time,0
+41,-2.90,0,36.33,0,0.368,0,Male,White,High School Graduate,Full Time,0
+42,-136.20,0,37.1,0,0.625,0,Male,White,High School Graduate,Full Time,0
+43,136.60,0,36.95,0,0.468,0,Male,White,High School Graduate,Full Time,0
+44,-147.00,0,36.75,0,0.784,0,Male,White,High School Graduate,Full Time,0
+45,8.40,0,37.02,0,0.762,0,Male,White,High School Graduate,Full Time,0
+46,-123.60,0,36.81,0,0.659,0,Male,White,High School Graduate,Full Time,0
+47,-113.90,0,36.43,0,0.324,0,Male,White,High School Graduate,Full Time,0
+48,62.60,0,36.63,0,0.69,0,Male,White,High School Graduate,Full Time,0
+49,111.30,0,36.96,0,0.44,0,Male,White,High School Graduate,Full Time,0
+50,-122.60,0,36.87,0,0.778,0,Male,White,High School Graduate,Full Time,0
+51,-84.20,0,36.6,0,0.739,0,Male,White,High School Graduate,Full Time,0
+52,89.20,0,36.39,0,0.599,0,Male,White,High School Graduate,Full Time,0
+53,-94.20,0,37.19,0,0.51,0,Male,White,High School Graduate,Full Time,0
+54,106.00,0,36.5,0,0.027,0,Male,White,High School Graduate,Full Time,0
+55,-105.30,0,37.07,0,0.235,0,Male,White,High School Graduate,Full Time,0
+56,113.10,0,36.04,0,0.523,0,Male,White,High School Graduate,Full Time,0
+57,140.50,0,36.39,0,0.228,0,Male,White,High School Graduate,Full Time,0
+58,-112.90,0,36.73,0,0.273,0,Male,White,High School Graduate,Full Time,0
+59,-21.10,0,36.8,0,0.326,0,Male,White,High School Graduate,Full Time,0
+60,2.30,0,36.56,0,0.724,0,Male,White,High School Graduate,Full Time,0
+61,-142.20,0,36.78,0,0.013,0,Male,White,High School Graduate,Full Time,0
+62,27.60,0,36.73,0,0.096,0,Male,White,High School Graduate,Full Time,0
+63,23.20,0,36.84,0,0.742,0,Male,White,High School Graduate,Full Time,0
+64,-32.60,0,36.15,0,0.556,0,Male,White,High School Graduate,Full Time,0
+65,136.20,0,36.53,0,0.187,0,Male,White,High School Graduate,Full Time,0
+66,-6.40,0,36.89,0,0.476,0,Male,White,High School Graduate,Full Time,0
+67,-63.40,0,36.77,0,0.16,0,Male,White,High School Graduate,Full Time,0
+68,-78.40,0,36.66,0,0.204,0,Male,White,High School Graduate,Full Time,0
+69,74.60,0,36.69,0,0.54,0,Male,White,High School Graduate,Full Time,0
+70,-40.30,0,36.26,0,0.785,0,Male,White,High School Graduate,Full Time,0
+71,130.40,0,36.4,0,0.04,0,Male,White,High School Graduate,Full Time,0
+72,-142.90,0,37.17,0,0.661,0,Male,White,High School Graduate,Full Time,0
+73,57.10,0,36.87,0,0.648,0,Male,White,High School Graduate,Full Time,0
+74,37.20,0,36.51,0,0.765,0,Male,White,High School Graduate,Full Time,0
+75,-26.70,0,36.75,0,0.057,0,Male,White,High School Graduate,Full Time,0
+76,-133.20,0,37.17,0,0.418,0,Male,White,High School Graduate,Full Time,0
+77,-118.50,0,36.39,0,0.71,0,Male,White,High School Graduate,Full Time,0
+78,-56.10,0,36.4,0,0.05,0,Male,White,High School Graduate,Full Time,0
+79,98.00,0,36.3,0,0.377,0,Male,White,High School Graduate,Full Time,0
+80,-63.80,0,36.47,0,0.467,0,Male,White,High School Graduate,Full Time,0
+81,109.80,0,37.1,0,0.301,0,Male,White,High School Graduate,Full Time,0
+82,115.00,0,36.78,0,0.797,0,Male,White,High School Graduate,Full Time,0
+83,-143.40,0,37.06,0,0.077,0,Male,White,High School Graduate,Full Time,0
+84,-69.90,0,36.31,0,0.027,0,Male,White,High School Graduate,Full Time,0
+85,105.50,0,36.44,0,0.294,0,Male,White,High School Graduate,Full Time,0
+86,-22.00,0,36.73,0,0.152,0,Male,White,High School Graduate,Full Time,0
+87,130.50,0,37.2,1,0.212,0,Male,White,High School Graduate,Full Time,0
+88,85.00,0,36.86,0,0.176,0,Male,White,High School Graduate,Full Time,0
+89,-61.50,0,36.83,0,0.581,0,Male,White,High School Graduate,Full Time,0
+90,129.80,0,37.06,0,0.45,0,Male,White,High School Graduate,Full Time,0
+91,130.90,0,37.17,0,0.746,0,Male,White,High School Graduate,Full Time,0
+92,55.30,0,36.18,0,0.742,0,Male,White,High School Graduate,Full Time,0
+93,-16.20,0,36.93,0,0.483,0,Male,White,High School Graduate,Full Time,0
+94,40.50,0,36.86,0,0.541,0,Male,White,High School Graduate,Full Time,0
+95,68.50,0,36.77,0,0.092,0,Male,White,High School Graduate,Full Time,0
+96,16.50,0,36.12,0,0.759,0,Male,White,High School Graduate,Full Time,0
+97,-124.50,0,36.28,0,0.53,0,Male,White,High School Graduate,Full Time,0
+98,117.90,0,36.37,0,0.226,0,Male,White,High School Graduate,Full Time,0
+99,73.20,0,36.16,0,0.279,0,Male,White,High School Graduate,Full Time,0
+100,-143.80,0,36.89,0,0.482,0,Male,White,High School Graduate,Full Time,0
+101,115.60,0,36.48,0,0.339,0,Male,White,High School Graduate,Full Time,0
+102,-75.30,0,36.24,0,0.248,0,Male,White,High School Graduate,Full Time,0
+103,6.00,0,36.85,0,0.33,0,Male,White,High School Graduate,Full Time,0
+104,-128.40,0,36.76,0,0.476,0,Male,White,High School Graduate,Full Time,0
+105,57.70,0,36.82,0,0.519,0,Male,White,High School Graduate,Full Time,0
+106,-108.50,0,36.64,0,0.28,0,Male,White,High School Graduate,Full Time,0
+107,-67.90,0,36.61,0,0.338,0,Male,White,High School Graduate,Full Time,0
+108,-98.20,0,36.46,0,0.743,0,Male,White,High School Graduate,Full Time,0
+109,38.70,0,36.95,0,0.788,0,Male,White,High School Graduate,Full Time,0
+110,-56.20,0,37.07,0,0.396,0,Male,White,High School Graduate,Full Time,0
+111,-7.50,0,36.53,0,0.681,0,Male,White,High School Graduate,Full Time,0
+112,40.20,0,36.88,0,0.163,0,Male,White,High School Graduate,Full Time,0
+113,-84.30,0,37.14,0,0.094,0,Male,White,High School Graduate,Full Time,0
+114,139.90,0,36.62,0,0.742,0,Male,White,High School Graduate,Full Time,0
+115,144.60,0,36.93,0,0.481,0,Male,White,High School Graduate,Full Time,0
+116,44.40,0,36.2,0,0.012,0,Male,White,High School Graduate,Full Time,0
+117,-50.90,0,36.55,0,0.456,0,Male,White,High School Graduate,Full Time,0
+118,148.80,0,36.47,0,0.705,0,Male,White,High School Graduate,Full Time,0
+119,-149.80,0,37.15,0,0.747,0,Male,White,High School Graduate,Full Time,0
+120,-58.70,0,36.38,0,0.289,0,Male,White,High School Graduate,Full Time,0
+121,-39.10,0,36.82,0,0.506,0,Male,White,High School Graduate,Full Time,0
+122,114.50,0,36.63,0,0.737,0,Male,White,High School Graduate,Full Time,0
+123,58.20,0,37.15,0,0.465,0,Male,White,High School Graduate,Full Time,0
+124,144.80,0,37.15,0,0.421,0,Male,White,High School Graduate,Full Time,0
+125,87.40,0,36.57,0,0.069,0,Male,White,High School Graduate,Full Time,0
+126,-143.50,0,36.8,0,0.421,0,Male,White,High School Graduate,Full Time,0
+127,-8.40,0,36.81,0,0.589,0,Male,White,High School Graduate,Full Time,0
+128,-20.60,0,36.14,0,0.378,0,Male,White,High School Graduate,Full Time,0
+129,42.80,0,36.31,0,0.398,0,Male,White,High School Graduate,Full Time,0
+130,-116.90,0,36.85,0,0.182,0,Male,White,High School Graduate,Full Time,0
+131,3.80,0,36.47,0,0.084,0,Male,White,High School Graduate,Full Time,0
+132,111.20,0,37,0,0.722,0,Male,White,High School Graduate,Full Time,0
+133,5.70,0,37.11,0,0.52,0,Male,White,High School Graduate,Full Time,0
+134,0.60,0,36.83,0,0.07,0,Male,White,High School Graduate,Full Time,0
+135,-118.50,0,37.02,0,0.508,0,Male,White,High School Graduate,Full Time,0
+136,-139.00,0,36.72,0,0.753,0,Male,White,High School Graduate,Full Time,0
+137,-22.90,0,37.06,0,0.291,0,Male,White,High School Graduate,Full Time,0
+138,-74.10,0,36.91,0,0.008,0,Male,White,High School Graduate,Full Time,0
+139,60.00,0,37.03,0,0.679,0,Male,White,High School Graduate,Full Time,0
+140,103.40,0,36.69,0,0.052,0,Male,White,High School Graduate,Full Time,0
+141,42.40,0,36.41,0,0.233,0,Male,White,High School Graduate,Full Time,0
+142,-138.60,0,36.13,0,0.249,0,Male,White,High School Graduate,Full Time,0
+143,140.30,0,36.11,0,0.196,0,Male,White,High School Graduate,Full Time,0
+144,-60.00,0,36.37,0,0.127,0,Male,White,High School Graduate,Full Time,0
+145,12.80,0,36.34,0,0.38,0,Male,White,High School Graduate,Full Time,0
+146,-58.70,0,36.07,0,0.105,0,Male,White,High School Graduate,Full Time,0
+147,-67.50,0,36.77,0,0.236,0,Male,White,High School Graduate,Full Time,0
+148,36.20,0,36.77,0,0.019,0,Male,White,High School Graduate,Full Time,0
+149,22.20,0,36.74,0,0.742,0,Male,White,High School Graduate,Full Time,0
+150,-39.30,0,36.15,0,0.079,0,Male,White,High School Graduate,Full Time,0
+151,129.10,0,37.07,0,0.71,0,Male,White,High School Graduate,Full Time,0
+152,111.20,0,36.78,0,0.221,0,Male,White,High School Graduate,Full Time,0
+153,94.70,0,36.66,0,0.646,0,Male,White,High School Graduate,Full Time,0
+154,30.60,0,37.15,0,0.244,0,Male,White,High School Graduate,Full Time,0
+155,120.20,0,37.15,0,0.581,0,Male,White,High School Graduate,Full Time,0
+156,-62.60,0,37.02,0,0.784,0,Male,White,High School Graduate,Full Time,0
+157,-79.70,0,37.18,0,0.743,0,Male,White,High School Graduate,Full Time,0
+158,-100.30,0,36.15,0,0.355,0,Male,White,High School Graduate,Full Time,0
+159,-71.90,0,37.11,0,0.166,0,Male,White,High School Graduate,Full Time,0
+160,25.30,0,36.64,0,0.673,0,Male,White,High School Graduate,Full Time,0
+161,-37.00,0,37.19,0,0.322,0,Male,White,High School Graduate,Full Time,0
+162,28.70,0,37.17,0,0.171,0,Male,White,High School Graduate,Full Time,0
+163,-27.30,0,36.92,0,0.663,0,Male,White,High School Graduate,Full Time,0
+164,63.30,0,36.51,0,0.504,0,Male,White,High School Graduate,Full Time,0
+165,40.40,0,36.28,0,0.316,0,Male,White,High School Graduate,Full Time,0
+166,-52.00,0,37.2,1,0.338,0,Male,White,High School Graduate,Full Time,0
+167,-56.70,0,37.16,0,0.356,0,Male,White,High School Graduate,Full Time,0
+168,5.60,0,36.5,0,0.512,0,Male,White,High School Graduate,Full Time,0
+169,107.20,0,36.17,0,0.189,0,Male,White,High School Graduate,Full Time,0
+170,82.50,0,36.54,0,0.445,0,Male,White,High School Graduate,Full Time,0
+171,-11.30,0,36.67,0,0.726,0,Male,White,High School Graduate,Full Time,0
+172,-2.30,0,36.65,0,0.772,0,Male,White,High School Graduate,Full Time,0
+173,-59.50,0,36.07,0,0.132,0,Male,White,High School Graduate,Full Time,0
+174,-36.40,0,36.11,0,0.169,0,Male,White,High School Graduate,Full Time,0
+175,111.80,0,36.14,0,0.553,0,Male,White,High School Graduate,Full Time,0
+176,100.00,0,36.48,0,0.265,0,Male,White,High School Graduate,Full Time,0
+177,-27.10,0,36.58,0,0.518,0,Male,White,High School Graduate,Full Time,0
+178,93.90,0,36.81,0,0.62,0,Male,White,High School Graduate,Full Time,0
+179,11.60,0,37.04,0,0.46,0,Male,White,High School Graduate,Full Time,0
+180,-123.00,0,36.92,0,0.614,0,Male,White,High School Graduate,Full Time,0
+181,125.00,0,37.06,0,0.186,0,Male,White,High School Graduate,Full Time,0
+182,-112.60,0,37.06,0,0.007,0,Male,White,High School Graduate,Full Time,0
+183,-102.20,0,36.28,0,0.144,0,Male,White,High School Graduate,Full Time,0
+184,56.50,0,36.88,0,0.132,0,Male,White,High School Graduate,Full Time,0
+185,-86.70,0,36.45,0,0.63,0,Male,White,High School Graduate,Full Time,0
+186,-133.50,0,36.8,0,0.604,0,Male,White,High School Graduate,Full Time,0
+187,52.80,0,36.5,0,0.311,0,Male,White,High School Graduate,Full Time,0
+188,-75.80,0,36.88,0,0.514,0,Male,White,High School Graduate,Full Time,0
+189,-14.30,0,37.19,0,0.237,0,Male,White,High School Graduate,Full Time,0
+190,113.00,0,36.35,0,0.463,0,Male,White,High School Graduate,Full Time,0
+191,90.10,0,36.83,0,0.156,0,Male,White,High School Graduate,Full Time,0
+192,-35.80,0,36.86,0,0.43,0,Male,White,High School Graduate,Full Time,0
+193,35.30,0,37.15,0,0.327,0,Male,White,High School Graduate,Full Time,0
+194,33.00,0,36.41,0,0.623,0,Male,White,High School Graduate,Full Time,0
+195,122.80,0,36.03,0,0.438,0,Male,White,High School Graduate,Full Time,0
+196,144.60,0,36.48,0,0.258,0,Male,White,High School Graduate,Full Time,0
+197,69.40,0,36.41,0,0.535,0,Male,White,High School Graduate,Full Time,0
+198,-56.60,0,37.16,0,0.053,0,Male,White,High School Graduate,Full Time,0
+199,-146.70,0,36.87,0,0.443,0,Male,White,High School Graduate,Full Time,0
+200,-72.60,0,36.82,0,0.038,0,Male,White,High School Graduate,Full Time,0
+201,-12.60,0,36.33,0,0.534,0,Male,White,High School Graduate,Full Time,0
+202,-70.80,0,36.5,0,0.556,0,Male,White,High School Graduate,Full Time,0
+203,101.00,0,36.82,0,0.269,0,Male,White,High School Graduate,Full Time,0
+204,-60.60,0,36.95,0,0.346,0,Male,White,High School Graduate,Full Time,0
+205,-83.40,0,36.33,0,0.575,0,Male,White,High School Graduate,Full Time,0
+206,3.50,0,36.56,0,0.438,0,Male,White,High School Graduate,Full Time,0
+207,-23.90,0,36.43,0,0.154,0,Male,White,High School Graduate,Full Time,0
+208,-5.50,0,36.09,0,0.099,0,Male,White,High School Graduate,Full Time,0
+209,-133.30,0,36.47,0,0.797,0,Male,White,High School Graduate,Full Time,0
+210,-149.60,0,36.74,0,0.087,0,Male,White,High School Graduate,Full Time,0
+211,98.70,0,36.52,0,0.295,0,Male,White,High School Graduate,Full Time,0
+212,-115.20,0,36.32,0,0.74,0,Male,White,High School Graduate,Full Time,0
+213,-5.70,0,36.49,0,0.534,0,Male,White,High School Graduate,Full Time,0
+214,143.60,0,36.53,0,0.338,0,Male,White,High School Graduate,Full Time,0
+215,-77.30,0,37.06,0,0.335,0,Male,White,High School Graduate,Full Time,0
+216,72.80,0,37.05,0,0.497,0,Male,White,High School Graduate,Full Time,0
+217,-108.70,0,36.26,0,0.393,0,Male,White,High School Graduate,Full Time,0
+218,105.50,0,36.17,0,0.171,0,Male,White,High School Graduate,Full Time,0
+219,-46.70,0,36.72,0,0.618,0,Male,White,High School Graduate,Full Time,0
+220,35.80,0,37.08,0,0.688,0,Male,White,High School Graduate,Full Time,0
+221,99.70,0,36.89,0,0.346,0,Male,White,High School Graduate,Full Time,0
+222,-16.10,0,37.03,0,0.595,0,Male,White,High School Graduate,Full Time,0
+223,-27.40,0,36.41,0,0.786,0,Male,White,High School Graduate,Full Time,0
+224,-56.10,0,37.12,0,0.192,0,Male,White,High School Graduate,Full Time,0
+225,-7.50,0,36.19,0,0.725,0,Male,White,High School Graduate,Full Time,0
+226,108.80,0,36.98,0,0.166,0,Male,White,High School Graduate,Full Time,0
+227,45.10,0,36.7,0,0.176,0,Male,White,High School Graduate,Full Time,0
+228,-12.40,0,36.43,0,0.687,0,Male,White,High School Graduate,Full Time,0
+229,-90.00,0,36.72,0,0.01,0,Male,White,High School Graduate,Full Time,0
+230,122.20,0,36.95,0,0.177,0,Male,White,High School Graduate,Full Time,0
+231,-93.40,0,36.19,0,0.448,0,Male,White,High School Graduate,Full Time,0
+232,-106.10,0,36.29,0,0.28,0,Male,White,High School Graduate,Full Time,0
+233,82.20,0,36.22,0,0.376,0,Male,White,High School Graduate,Full Time,0
+234,61.80,0,36.33,0,0.116,0,Male,White,High School Graduate,Full Time,0
+235,116.10,0,36.78,0,0.234,0,Male,White,High School Graduate,Full Time,0
+236,95.60,0,36.91,0,0.378,0,Male,White,High School Graduate,Full Time,0
+237,-72.00,0,36.02,0,0.321,0,Male,White,High School Graduate,Full Time,0
+238,66.30,0,36.35,0,0.359,0,Male,White,High School Graduate,Full Time,0
+239,-132.10,0,37.1,0,0.466,0,Male,White,High School Graduate,Full Time,0
+240,-82.80,0,36.18,0,0.494,0,Male,White,High School Graduate,Full Time,0
+241,-58.20,0,37.03,0,0.573,0,Male,White,High School Graduate,Full Time,0
+242,-122.30,0,36.74,0,0.196,0,Male,White,High School Graduate,Full Time,0
+243,79.20,0,36.53,0,0.653,0,Male,White,High School Graduate,Full Time,0
+244,-37.40,0,36.99,0,0.694,0,Male,White,High School Graduate,Full Time,0
+245,-13.60,0,37.1,0,0.53,0,Male,White,High School Graduate,Full Time,0
+246,-20.10,0,36.85,0,0.32,0,Male,White,High School Graduate,Full Time,0
+247,78.90,0,36.21,0,0.352,0,Male,White,High School Graduate,Full Time,0
+248,-48.00,0,37.1,0,0.332,0,Male,White,High School Graduate,Full Time,0
+249,85.30,0,36.01,0,0.179,0,Female,White,High School Graduate,Full Time,0
+250,-54.60,0,36.31,0,0.696,0,Female,White,High School Graduate,Full Time,0
+251,79.10,0,37.18,0,0.183,0,Female,White,High School Graduate,Full Time,0
+252,-78.70,0,36.56,0,0.35,0,Female,White,High School Graduate,Full Time,0
+253,-141.00,0,36.98,0,0.241,0,Female,White,High School Graduate,Full Time,0
+254,-93.60,0,36.81,0,0.762,0,Female,White,High School Graduate,Full Time,0
+255,61.30,0,36.52,0,0.718,0,Female,White,High School Graduate,Full Time,0
+256,94.60,0,36.7,0,0.052,0,Female,White,High School Graduate,Full Time,0
+257,-147.40,0,36.65,0,0.3,0,Female,White,High School Graduate,Full Time,0
+258,-116.60,0,37.16,0,0.259,0,Female,White,High School Graduate,Full Time,0
+259,46.20,0,36.57,0,0.563,0,Female,White,High School Graduate,Full Time,0
+260,126.00,0,36.49,0,0.207,0,Female,White,High School Graduate,Full Time,0
+261,78.30,0,37.19,0,0.587,0,Female,White,High School Graduate,Full Time,0
+262,51.30,0,36.53,0,0.054,0,Female,White,High School Graduate,Full Time,0
+263,-135.40,0,36.92,0,0.735,0,Female,White,High School Graduate,Full Time,0
+264,114.50,0,36.92,0,0.52,0,Female,White,High School Graduate,Full Time,0
+265,-23.30,0,36.25,0,0.563,0,Female,White,High School Graduate,Full Time,0
+266,-58.20,0,36.69,0,0.461,0,Female,White,High School Graduate,Full Time,0
+267,-129.60,0,37.15,0,0.442,0,Female,White,High School Graduate,Full Time,0
+268,-51.20,0,37.07,0,0.034,0,Female,White,High School Graduate,Full Time,0
+269,-10.30,0,36.92,0,0.217,0,Female,White,High School Graduate,Full Time,0
+270,15.70,0,36.26,0,0.174,0,Female,White,High School Graduate,Full Time,0
+271,128.20,0,36.31,0,0.559,0,Female,White,High School Graduate,Full Time,0
+272,123.20,0,36.31,0,0.486,0,Female,White,High School Graduate,Full Time,0
+273,96.40,0,37.1,0,0.454,0,Female,White,High School Graduate,Full Time,0
+274,52.90,0,36.57,0,0.081,0,Female,White,High School Graduate,Full Time,0
+275,48.80,0,36.81,0,0.1,0,Female,White,High School Graduate,Full Time,0
+276,-47.50,0,36.49,0,0.52,0,Female,White,High School Graduate,Full Time,0
+277,67.00,0,36.08,0,0.494,0,Female,White,High School Graduate,Full Time,0
+278,19.40,0,37.05,0,0.428,0,Female,White,High School Graduate,Full Time,0
+279,78.50,0,36.18,0,0.647,0,Female,White,High School Graduate,Full Time,0
+280,-12.40,0,36.03,0,0.527,0,Female,White,High School Graduate,Full Time,0
+281,-13.10,0,36.84,0,0.107,0,Female,White,High School Graduate,Full Time,0
+282,120.10,0,36.5,0,0.073,0,Female,White,High School Graduate,Full Time,0
+283,101.00,0,37.14,0,0.314,0,Female,White,High School Graduate,Full Time,0
+284,42.30,0,37.1,0,0.11,0,Female,White,High School Graduate,Full Time,0
+285,14.80,0,36.56,0,0.327,0,Female,White,High School Graduate,Full Time,0
+286,-100.30,0,36.68,0,0.024,0,Female,White,High School Graduate,Full Time,0
+287,-133.10,0,37.13,0,0.69,0,Female,White,High School Graduate,Full Time,0
+288,-57.30,0,36.97,0,0.01,0,Female,White,High School Graduate,Full Time,0
+289,71.80,0,37.06,0,0.735,0,Female,White,High School Graduate,Full Time,0
+290,4.70,0,36.82,0,0.652,0,Female,White,High School Graduate,Full Time,0
+291,-116.30,0,37.16,0,0.029,0,Female,White,High School Graduate,Full Time,0
+292,-128.90,0,36.09,0,0.198,0,Female,White,High School Graduate,Full Time,0
+293,-118.80,0,36.01,0,0.281,0,Female,White,High School Graduate,Full Time,0
+294,149.30,0,36.4,0,0.479,0,Female,White,High School Graduate,Full Time,0
+295,54.50,0,36.11,0,0.759,0,Female,White,High School Graduate,Full Time,0
+296,-140.60,0,36.01,0,0.671,0,Female,White,High School Graduate,Full Time,0
+297,-44.60,0,37.07,0,0.034,0,Female,White,High School Graduate,Full Time,0
+298,141.60,0,36.33,0,0.194,0,Female,White,High School Graduate,Full Time,0
+299,-10.80,0,36.46,0,0.436,0,Female,White,High School Graduate,Full Time,0
+300,-82.20,0,36.68,0,0.508,0,Female,White,High School Graduate,Full Time,0
+301,-35.90,0,36.41,0,0.018,0,Female,White,High School Graduate,Full Time,0
+302,-69.70,0,36.57,0,0.549,0,Female,White,High School Graduate,Full Time,0
+303,83.50,0,37.05,0,0.048,0,Female,White,High School Graduate,Full Time,0
+304,137.50,0,36.78,0,0.001,0,Female,White,High School Graduate,Full Time,0
+305,0.20,0,36.77,0,0.451,0,Female,White,High School Graduate,Full Time,0
+306,113.70,0,36.09,0,0.619,0,Female,White,High School Graduate,Full Time,0
+307,-31.30,0,37.01,0,0.098,0,Female,White,High School Graduate,Full Time,0
+308,-53.60,0,36.64,0,0.734,0,Female,White,High School Graduate,Full Time,0
+309,-75.00,0,36.86,0,0.274,0,Female,White,High School Graduate,Full Time,0
+310,-133.70,0,36.86,0,0.621,0,Female,White,High School Graduate,Full Time,0
+311,124.00,0,36.55,0,0.562,0,Female,White,High School Graduate,Full Time,0
+312,-102.40,0,37.15,0,0.461,0,Female,White,High School Graduate,Full Time,0
+313,-85.10,0,36.19,0,0.603,0,Female,White,High School Graduate,Full Time,0
+314,-63.30,0,36.13,0,0.58,0,Female,White,High School Graduate,Full Time,0
+315,107.10,0,36.83,0,0.361,0,Female,White,High School Graduate,Full Time,0
+316,134.20,0,37.06,0,0.732,0,Female,White,High School Graduate,Full Time,0
+317,-148.10,0,36.66,0,0.033,0,Female,White,High School Graduate,Full Time,0
+318,8.60,0,37.2,1,0.234,0,Female,White,High School Graduate,Full Time,0
+319,-75.70,0,36.83,0,0.012,0,Female,White,High School Graduate,Full Time,0
+320,-73.20,0,36.12,0,0.412,0,Female,White,High School Graduate,Full Time,0
+321,-49.00,0,36.04,0,0.377,0,Female,White,High School Graduate,Full Time,0
+322,35.10,0,36.44,0,0.568,0,Female,White,High School Graduate,Full Time,0
+323,12.60,0,36.82,0,0.771,0,Female,White,High School Graduate,Full Time,0
+324,42.20,0,36.79,0,0.072,0,Female,White,High School Graduate,Full Time,0
+325,-47.70,0,36.31,0,0.196,0,Female,White,High School Graduate,Full Time,0
+326,-144.90,0,36.73,0,0.038,0,Female,White,High School Graduate,Full Time,0
+327,-79.70,0,36.05,0,0.123,0,Female,White,High School Graduate,Full Time,0
+328,-25.40,0,36.06,0,0.115,0,Female,White,High School Graduate,Full Time,0
+329,40.10,0,36.03,0,0.431,0,Female,White,High School Graduate,Full Time,0
+330,-10.20,0,37.1,0,0.266,0,Female,White,High School Graduate,Full Time,0
+331,-115.30,0,36.66,0,0.402,0,Female,White,High School Graduate,Full Time,0
+332,49.30,0,36.25,0,0.233,0,Female,White,High School Graduate,Full Time,0
+333,54.00,0,36.02,0,0.763,0,Female,White,High School Graduate,Full Time,0
+334,36.00,0,37.2,1,0.219,0,Female,White,High School Graduate,Full Time,0
+335,144.90,0,36.79,0,0.337,0,Female,White,High School Graduate,Full Time,0
+336,-127.00,0,37.17,0,0.13,0,Female,White,High School Graduate,Full Time,0
+337,-126.30,0,37.2,1,0.294,0,Female,White,High School Graduate,Full Time,0
+338,-142.00,0,37.14,0,0.343,0,Female,White,High School Graduate,Full Time,0
+339,-110.90,0,36.54,0,0.794,0,Female,White,High School Graduate,Full Time,0
+340,37.50,0,36.97,0,0.468,0,Female,White,High School Graduate,Full Time,0
+341,127.30,0,37.03,0,0.596,0,Female,White,High School Graduate,Full Time,0
+342,-70.50,0,36.94,0,0.365,0,Female,White,High School Graduate,Full Time,0
+343,83.80,0,36.77,0,0.455,0,Female,White,High School Graduate,Full Time,0
+344,-126.70,0,36.03,0,0.765,0,Female,White,High School Graduate,Full Time,0
+345,62.40,0,36.9,0,0.431,0,Female,White,High School Graduate,Full Time,0
+346,119.90,0,36.38,0,0.273,0,Female,White,High School Graduate,Full Time,0
+347,-39.70,0,36.44,0,0.208,0,Female,White,High School Graduate,Full Time,0
+348,-102.70,0,36.68,0,0.616,0,Female,White,High School Graduate,Full Time,0
+349,-9.10,0,36.06,0,0.77,0,Female,White,High School Graduate,Full Time,0
+350,144.70,0,37.07,0,0.022,0,Female,White,High School Graduate,Full Time,0
+351,-35.90,0,37.15,0,0.075,0,Female,White,High School Graduate,Full Time,0
+352,-120.20,0,36.96,0,0.727,0,Female,White,High School Graduate,Full Time,0
+353,134.80,0,37.07,0,0.258,0,Female,White,High School Graduate,Full Time,0
+354,44.10,0,36.08,0,0.245,0,Female,White,High School Graduate,Full Time,0
+355,52.10,0,37.03,0,0.667,0,Female,White,High School Graduate,Full Time,0
+356,134.40,0,37,0,0.147,0,Female,White,High School Graduate,Full Time,0
+357,97.30,0,36.21,0,0.513,0,Female,White,High School Graduate,Full Time,0
+358,122.60,0,36.4,0,0.076,0,Female,White,High School Graduate,Full Time,0
+359,-138.30,0,37.07,0,0.334,0,Female,White,High School Graduate,Full Time,0
+360,-108.30,0,37.03,0,0.768,0,Female,White,High School Graduate,Full Time,0
+361,-78.20,0,36.81,0,0.026,0,Female,White,High School Graduate,Full Time,0
+362,96.60,0,36.61,0,0.059,0,Female,White,High School Graduate,Full Time,0
+363,104.50,0,36.86,0,0.725,0,Female,White,High School Graduate,Full Time,0
+364,112.90,0,36.36,0,0.398,0,Female,White,High School Graduate,Full Time,0
+365,81.90,0,36.77,0,0.189,0,Female,White,High School Graduate,Full Time,0
+366,-14.50,0,36.88,0,0.006,0,Female,White,High School Graduate,Full Time,0
+367,41.10,0,37.08,0,0.597,0,Female,White,High School Graduate,Full Time,0
+368,8.60,0,36.22,0,0.372,0,Female,White,High School Graduate,Full Time,0
+369,-116.90,0,36.05,0,0.66,0,Female,White,High School Graduate,Full Time,0
+370,38.50,0,36.37,0,0.59,0,Female,White,High School Graduate,Full Time,0
+371,-72.30,0,36.03,0,0.702,0,Female,White,High School Graduate,Full Time,0
+372,5.00,0,36.21,0,0.022,0,Female,White,High School Graduate,Full Time,0
+373,127.20,0,36.03,0,0.3,0,Female,White,High School Graduate,Full Time,0
+374,68.90,0,36.27,0,0.755,0,Female,White,High School Graduate,Full Time,0
+375,70.60,0,36.61,0,0.373,0,Female,White,High School Graduate,Full Time,0
+376,-30.50,0,37.06,0,0.52,0,Female,White,High School Graduate,Full Time,0
+377,-100.20,0,36.32,0,0.042,0,Female,White,High School Graduate,Full Time,0
+378,70.40,0,36.26,0,0.791,0,Female,White,High School Graduate,Full Time,0
+379,72.50,0,36.01,0,0.342,0,Female,White,High School Graduate,Full Time,0
+380,-143.90,0,36.95,0,0.291,0,Female,African American,High School Graduate,Full Time,0
+381,56.50,0,37.15,0,0.586,0,Female,African American,High School Graduate,Full Time,0
+382,66.10,0,36.49,0,0.487,0,Female,African American,High School Graduate,Full Time,0
+383,112.00,0,36.11,0,0.445,0,Female,African American,High School Graduate,Full Time,0
+384,-74.50,0,36.26,0,0.061,0,Female,African American,High School Graduate,Full Time,0
+385,-92.70,0,36.14,0,0.315,0,Female,African American,High School Graduate,Full Time,0
+386,42.80,0,36.98,0,0.695,0,Female,African American,High School Graduate,Full Time,0
+387,88.00,0,36.47,0,0.599,0,Female,African American,High School Graduate,Full Time,0
+388,44.80,0,36.04,0,0.052,0,Female,African American,High School Graduate,Full Time,0
+389,-30.10,0,36.37,0,0.73,0,Female,African American,High School Graduate,Full Time,0
+390,-140.90,0,36,1,0.267,0,Female,African American,High School Graduate,Full Time,0
+391,142.40,0,36.62,0,0.301,0,Female,African American,High School Graduate,Part Time,0
+392,69.00,0,37.14,0,0.251,0,Female,African American,High School Graduate,Part Time,0
+393,-90.60,0,36.94,0,0.091,0,Female,African American,High School Graduate,Part Time,0
+394,-16.90,0,36.06,0,0.565,0,Female,African American,High School Graduate,Part Time,0
+395,-42.50,0,36.75,0,0.231,0,Female,African American,High School Graduate,Part Time,0
+396,-128.90,0,36.06,0,0.391,0,Female,African American,High School Graduate,Part Time,0
+397,-10.00,0,36.7,0,0.598,0,Female,African American,High School Graduate,Part Time,0
+398,115.00,0,36.47,0,0.604,0,Female,African American,High School Graduate,Part Time,0
+399,8.60,0,36.04,0,0.493,0,Female,African American,High School Graduate,Part Time,0
+400,-13.60,0,36.51,0,0.643,0,Female,African American,High School Graduate,Part Time,0
+401,83.90,0,36.45,0,0.509,0,Female,African American,High School Graduate,Part Time,0
+402,-101.30,0,36.38,0,0.371,0,Female,African American,High School Graduate,Part Time,0
+403,-96.90,0,36.48,0,0.254,0,Female,African American,High School Graduate,Part Time,0
+404,63.60,0,36.15,0,0.702,0,Female,African American,High School Graduate,Part Time,0
+405,-137.00,0,36.88,0,0.415,0,Female,African American,High School Graduate,Part Time,0
+406,8.80,0,36.27,0,0.427,0,Female,African American,High School Graduate,Part Time,0
+407,-134.30,0,36.03,0,0.617,0,Female,African American,High School Graduate,Part Time,0
+408,-104.60,0,36.67,0,0.69,0,Female,African American,High School Graduate,Part Time,0
+409,-52.30,0,36.15,0,0.072,0,Female,African American,High School Graduate,Part Time,0
+410,116.10,0,36.32,0,0.605,0,Female,African American,High School Graduate,Part Time,0
+411,72.20,0,36.73,0,0.133,0,Female,African American,High School Graduate,Part Time,0
+412,-136.60,0,36.84,0,0.072,0,Female,African American,High School Graduate,Part Time,0
+413,-32.60,0,36.73,0,0.191,0,Female,African American,High School Graduate,Part Time,0
+414,69.00,0,36.26,0,0.711,0,Female,African American,High School Graduate,Part Time,0
+415,-1.70,0,37.2,1,0.194,0,Female,African American,High School Graduate,Part Time,0
+416,-144.40,0,36.85,0,0.348,0,Female,African American,High School Graduate,Part Time,0
+417,131.10,0,36.98,0,0.292,0,Female,African American,High School Graduate,Part Time,0
+418,-57.20,0,36.63,0,0.225,0,Female,African American,High School Graduate,Part Time,0
+419,-3.20,0,36.59,0,0.141,0,Female,African American,High School Graduate,Part Time,0
+420,-20.90,0,36.68,0,0.605,0,Female,African American,High School Graduate,Part Time,0
+421,19.90,0,37.1,0,0.75,0,Female,African American,High School Graduate,Part Time,0
+422,82.00,0,36.8,0,0.759,0,Female,African American,High School Graduate,Part Time,0
+423,-100.20,0,37.15,0,0.243,0,Female,African American,High School Graduate,Part Time,0
+424,45.90,0,36.52,0,0.577,0,Female,African American,High School Graduate,Part Time,0
+425,-85.70,0,36.59,0,0.042,0,Female,African American,High School Graduate,Part Time,0
+426,-29.20,0,36.25,0,0.385,0,Female,African American,High School Graduate,Part Time,0
+427,-106.10,0,37.14,0,0.173,0,Female,African American,High School Graduate,Part Time,0
+428,110.30,0,36.26,0,0.62,0,Female,African American,High School Graduate,Part Time,0
+429,-70.10,0,37.1,0,0.133,0,Female,African American,High School Graduate,Part Time,0
+430,-95.80,0,36.11,0,0.002,0,Female,African American,High School Graduate,Part Time,0
+431,-74.70,0,36.56,0,0.183,0,Female,African American,High School Graduate,Part Time,0
+432,139.90,0,36.86,0,0.261,0,Female,African American,High School Graduate,Part Time,0
+433,28.20,0,36.31,0,0.102,0,Female,African American,High School Graduate,Part Time,0
+434,84.50,0,36.1,0,0.754,0,Female,African American,High School Graduate,Part Time,0
+435,-4.10,0,36.1,0,0.462,0,Female,African American,High School Graduate,Part Time,0
+436,128.80,0,36.25,0,0.337,0,Female,African American,High School Graduate,Part Time,0
+437,50.70,0,36.29,0,0.542,0,Female,African American,High School Graduate,Part Time,0
+438,70.00,0,36.28,0,0.159,0,Female,African American,High School Graduate,Part Time,0
+439,-128.10,0,36.93,0,0.008,0,Female,African American,High School Graduate,Part Time,0
+440,-132.70,0,36.11,0,0.682,0,Female,African American,High School Incomplete,Part Time,0
+441,19.70,0,36,1,0.548,0,Female,African American,High School Incomplete,Part Time,0
+442,-115.40,0,36.66,0,0.577,0,Female,African American,High School Incomplete,Part Time,0
+443,59.90,0,36.51,0,0.517,0,Female,African American,High School Incomplete,Part Time,0
+444,135.90,0,36.41,0,0.606,0,Female,African American,High School Incomplete,Part Time,0
+445,-148.70,0,36.23,0,0.128,0,Female,African American,High School Incomplete,Part Time,0
+446,-126.60,0,36.94,0,0.581,0,Female,American Indian,High School Incomplete,Part Time,0
+447,-10.20,0,36.76,0,0.565,0,Female,American Indian,High School Incomplete,Part Time,0
+448,16.70,0,36.44,0,0.408,0,Female,American Indian,High School Incomplete,Part Time,0
+449,123.50,0,36.25,0,0.282,0,Female,American Indian,High School Incomplete,Part Time,0
+450,-126.90,0,37.08,0,0.683,0,Female,American Indian,High School Incomplete,Part Time,0
+451,-92.00,0,37.15,0,0.167,0,Female,Asian,High School Incomplete,Part Time,0
+452,115.90,0,36.2,0,0.792,0,Female,Asian,High School Incomplete,Part Time,0
+453,133.50,0,36.58,0,0.097,0,Female,Asian,High School Incomplete,Part Time,0
+454,-70.10,0,36.61,0,0.713,0,Female,Asian,High School Incomplete,Part Time,0
+455,-132.30,0,36.87,0,0.536,0,Female,Asian,High School Incomplete,Part Time,0
+456,-114.00,0,36.58,0,0.062,0,Female,Asian,High School Incomplete,Part Time,0
+457,7.00,0,36.93,0,0.331,0,Female,Asian,High School Incomplete,Part Time,0
+458,-58.20,0,36.3,0,0.169,0,Female,Asian,High School Incomplete,Part Time,0
+459,-105.00,0,36.02,0,0.183,0,Female,Asian,High School Incomplete,Part Time,0
+460,-108.80,0,37.05,0,0.015,0,Female,Asian,High School Incomplete,Part Time,0
+461,83.70,0,36.95,0,0.231,0,Female,Asian,High School Incomplete,Part Time,0
+462,-85.50,0,36.12,0,0.434,0,Female,Asian,High School Incomplete,Part Time,0
+463,82.70,0,36.57,0,0.16,0,Female,Asian,High School Incomplete,Part Time,0
+464,81.50,0,37.16,0,0.399,0,Female,Asian,High School Incomplete,Part Time,0
+465,-128.30,0,36.64,0,0.154,0,Female,Asian,High School Incomplete,Part Time,0
+466,121.00,0,36.32,0,0.492,0,Female,Asian,High School Incomplete,Part Time,0
+467,-40.00,0,36.35,0,0.127,0,Female,Asian,High School Incomplete,Part Time,0
+468,-133.60,0,37.14,0,0.351,0,Female,Asian,High School Incomplete,Part Time,0
+469,62.70,0,37,0,0.192,0,Female,Asian,High School Incomplete,Part Time,0
+470,3.40,0,36.74,0,0.714,0,Female,Asian,High School Incomplete,Part Time,0
+471,28.40,0,36.98,0,0.396,0,Female,Asian,High School Incomplete,Part Time,0
+472,14.30,0,36.85,0,0.44,0,Female,Asian,High School Incomplete,Part Time,0
+473,88.40,0,36.39,0,0.33,0,Female,Asian,High School Incomplete,Part Time,0
+474,-62.40,0,37,0,0.465,0,Female,Asian,High School Incomplete,Part Time,0
+475,76.70,0,36.31,0,0.594,0,Female,Asian,High School Incomplete,Part Time,0
+476,135.30,0,36.59,0,0.446,0,Female,Asian,High School Incomplete,Part Time,0
+477,15.40,0,36.38,0,0.574,0,Female,Asian,High School Incomplete,Part Time,0
+478,-104.40,0,36.47,0,0.227,0,Female,Asian,High School Incomplete,Part Time,0
+479,-14.40,0,36.28,0,0.747,0,Female,Asian,High School Incomplete,Part Time,0
+480,24.80,0,37.16,0,0.435,0,Female,Asian,High School Incomplete,Part Time,0
+481,109.50,0,36.97,0,0.79,0,Female,Asian,High School Incomplete,Part Time,0
+482,-10.90,0,37.13,0,0.147,0,Female,Asian,High School Incomplete,Part Time,0
+483,99.90,0,37.03,0,0.172,0,Female,Latino,High School Incomplete,Part Time,0
+484,130.90,0,36.16,0,0.302,0,Female,Latino,High School Incomplete,Part Time,0
+485,16.50,0,36.63,0,0.456,0,Female,Latino,High School Incomplete,Part Time,0
+486,-116.00,0,37.03,0,0.323,0,Female,Latino,High School Incomplete,Part Time,0
+487,115.20,0,36.74,0,0.583,0,Female,Latino,High School Incomplete,Part Time,0
+488,-44.40,0,36.56,0,0.647,0,Female,Latino,High School Incomplete,Part Time,0
+489,-59.70,0,36.87,0,0.229,0,Female,Latino,High School Incomplete,Part Time,0
+490,-93.30,0,36.16,0,0.356,0,Female,Latino,High School Incomplete,Part Time,0
+491,-48.30,0,36.27,0,0.774,0,Female,Latino,High School Incomplete,Part Time,0
+492,-32.50,0,36.16,0,0.344,0,Female,Latino,High School Incomplete,Part Time,0
+493,51.00,0,36.25,0,0.174,0,Female,Latino,High School Incomplete,Part Time,0
+494,6.70,0,36.42,0,0.766,0,Female,Latino,High School Incomplete,Part Time,0
+495,124.50,0,36.5,0,0.266,0,Female,Latino,High School Incomplete,Part Time,0
+496,44.60,0,37.03,0,0.081,0,Female,Latino,High School Incomplete,Part Time,0
+497,120.60,0,36.52,0,0.411,0,Female,Latino,High School Incomplete,Part Time,0
+498,105.20,0,36.41,0,0.045,0,Female,Latino,High School Incomplete,Part Time,0
+499,86.30,0,36.86,0,0.365,0,Female,Latino,High School Incomplete,Part Time,0
+500,421.50,1,39.47,1,1.208,1,Male,African American,High School Graduate,Full Time,1
+501,183.20,1,37.67,1,0.951,1,Male,African American,High School Graduate,Full Time,1
+502,448.50,1,37.52,1,1.232,1,Male,African American,High School Graduate,Full Time,1
+503,278.10,1,41.18,1,1.037,1,Male,African American,High School Graduate,Full Time,1
+504,445.40,1,38.72,1,0.929,1,Male,African American,High School Graduate,Full Time,1
+505,158.80,1,38.3,1,1.1,1,Male,African American,High School Graduate,Full Time,1
+506,269.80,1,41.4,1,0.864,1,Male,African American,High School Graduate,Full Time,1
+507,237.70,1,38.38,1,0.919,1,Male,African American,High School Graduate,Full Time,1
+508,484.90,1,40.64,1,1.05,1,Male,African American,High School Graduate,Full Time,1
+509,301.10,1,40.76,1,1.158,1,Male,African American,High School Graduate,Full Time,1
+510,157.60,1,41.36,1,0.862,1,Male,African American,High School Graduate,Full Time,1
+511,375.20,1,37.7,1,0.842,1,Male,African American,High School Graduate,Full Time,1
+512,168.70,1,38.19,1,0.85,1,Male,African American,High School Graduate,Full Time,1
+513,396.40,1,40.57,1,1.299,1,Male,African American,High School Graduate,Full Time,1
+514,486.20,1,40.01,1,1.283,1,Male,African American,High School Graduate,Full Time,1
+515,311.30,1,40.59,1,1.264,1,Male,African American,High School Graduate,Full Time,1
+516,443.70,1,38.68,1,0.869,1,Male,African American,High School Graduate,Full Time,1
+517,187.10,1,38.42,1,0.868,1,Male,African American,High School Graduate,Full Time,1
+518,151.80,1,39.83,1,0.838,1,Male,African American,High School Graduate,Full Time,1
+519,165.90,1,40.21,1,1.068,1,Male,African American,High School Graduate,Full Time,1
+520,349.30,1,38.04,1,1.097,1,Male,African American,High School Graduate,Full Time,1
+521,295.20,1,40.35,1,0.99,1,Male,African American,High School Graduate,Full Time,1
+522,180.30,1,38.7,1,1.038,1,Male,African American,High School Graduate,Full Time,1
+523,154.30,1,41.37,1,0.984,1,Male,African American,High School Graduate,Full Time,1
+524,347.40,1,38.77,1,1.273,1,Male,African American,High School Graduate,Full Time,1
+525,251.90,1,38.65,1,1.051,1,Male,African American,High School Graduate,Full Time,1
+526,357.70,1,38.09,1,1.077,1,Male,African American,High School Graduate,Full Time,1
+527,387.20,1,39.62,1,1.137,1,Male,African American,High School Graduate,Full Time,1
+528,465.90,1,38.52,1,1.253,1,Male,African American,High School Graduate,Full Time,1
+529,192.20,1,39.48,1,1.097,1,Male,African American,High School Graduate,Full Time,1
+530,387.70,1,39.83,1,0.996,1,Male,African American,High School Graduate,Full Time,1
+531,174.70,1,38.11,1,1.102,1,Male,African American,High School Graduate,Full Time,1
+532,384.40,1,41.33,1,1.228,1,Male,African American,High School Graduate,Full Time,1
+533,462.00,1,40.79,1,0.875,1,Male,African American,High School Graduate,Full Time,1
+534,234.50,1,37.51,1,1.133,1,Male,African American,High School Graduate,Full Time,1
+535,487.80,1,38.42,1,0.884,1,Male,African American,High School Graduate,Full Time,1
+536,326.10,1,39.15,1,1.25,1,Male,African American,High School Graduate,Full Time,1
+537,202.40,1,38.84,1,1.213,1,Male,African American,High School Graduate,Full Time,1
+538,198.20,1,39.18,1,0.838,1,Male,African American,High School Graduate,Full Time,1
+539,442.90,1,40.37,1,0.832,1,Male,African American,High School Graduate,Full Time,1
+540,394.50,1,41.43,1,1.057,1,Male,African American,High School Graduate,Full Time,1
+541,396.10,1,40.96,1,1.109,1,Male,African American,High School Graduate,Full Time,1
+542,152.80,1,38.87,1,1.294,1,Male,African American,High School Graduate,Full Time,1
+543,328.30,1,38.15,1,0.804,1,Male,African American,High School Graduate,Full Time,1
+544,302.80,1,41.15,1,1.074,1,Male,African American,High School Graduate,Full Time,1
+545,227.40,1,39.97,1,1.245,1,Male,African American,High School Graduate,Full Time,1
+546,473.40,1,37.71,1,1.23,1,Male,African American,High School Graduate,Full Time,1
+547,201.50,1,38.25,1,1.186,1,Male,African American,High School Graduate,Full Time,1
+548,192.90,1,41.36,1,1.115,1,Male,African American,High School Graduate,Full Time,1
+549,313.60,1,40.51,1,0.93,1,Male,African American,High School Graduate,Full Time,1
+550,319.30,1,39.14,1,0.845,1,Male,African American,High School Graduate,Full Time,1
+551,484.10,1,40.66,1,1.228,1,Male,African American,High School Graduate,Full Time,1
+552,385.60,1,40.74,1,1.2,1,Male,African American,High School Graduate,Full Time,1
+553,286.10,1,41.29,1,0.949,1,Male,African American,High School Graduate,Full Time,1
+554,446.30,1,40.45,1,1.072,1,Male,African American,High School Graduate,Full Time,1
+555,426.10,1,38.76,1,0.884,1,Male,African American,High School Graduate,Full Time,1
+556,296.90,1,38.43,1,0.807,1,Male,African American,High School Graduate,Full Time,1
+557,270.10,1,38.18,1,0.959,1,Male,African American,High School Graduate,Full Time,1
+558,438.80,1,40.42,1,1.12,1,Male,African American,High School Graduate,Full Time,1
+559,486.80,1,40.22,1,0.874,1,Male,African American,High School Graduate,Full Time,1
+560,333.70,1,39.81,1,1.11,1,Male,African American,High School Graduate,Full Time,1
+561,283.40,1,38.51,1,1.027,1,Male,African American,High School Graduate,Full Time,1
+562,442.60,1,41.41,1,0.843,1,Male,African American,High School Graduate,Full Time,1
+563,185.30,1,37.37,1,1.168,1,Male,African American,High School Graduate,Full Time,1
+564,389.60,1,40.19,1,0.865,1,Male,African American,High School Graduate,Full Time,1
+565,158.00,1,38.81,1,1.056,1,Male,African American,High School Graduate,Full Time,1
+566,435.50,1,37.61,1,1.22,1,Male,African American,High School Graduate,Full Time,1
+567,281.90,1,41.31,1,1.196,1,Male,African American,High School Graduate,Full Time,1
+568,195.90,1,37.59,1,1.119,1,Male,African American,High School Graduate,Full Time,1
+569,330.50,1,38.52,1,1.229,1,Male,African American,High School Graduate,Full Time,1
+570,495.70,1,40.01,1,1.098,1,Male,African American,High School Graduate,Full Time,1
+571,297.20,1,39.67,1,0.936,1,Male,African American,High School Graduate,Full Time,1
+572,477.40,1,39.46,1,1.168,1,Male,African American,High School Graduate,Full Time,1
+573,415.10,1,37.78,1,1.04,1,Male,African American,High School Graduate,Full Time,1
+574,344.60,1,40.22,1,0.954,1,Male,African American,High School Graduate,Full Time,1
+575,386.70,1,40.58,1,0.898,1,Male,African American,High School Graduate,Full Time,1
+576,359.60,1,38.88,1,0.895,1,Male,African American,High School Graduate,Full Time,1
+577,277.90,1,40.03,1,0.858,1,Male,African American,High School Graduate,Full Time,1
+578,249.70,1,40.46,1,1.085,1,Male,African American,High School Graduate,Full Time,1
+579,189.20,1,40.83,1,1.087,1,Male,African American,High School Graduate,Full Time,1
+580,379.50,1,41.41,1,0.958,1,Male,African American,High School Graduate,Full Time,1
+581,236.30,1,39.87,1,0.905,1,Male,African American,High School Graduate,Full Time,1
+582,498.60,1,40.5,1,1.036,1,Male,African American,High School Graduate,Full Time,1
+583,308.20,1,41.44,1,0.886,1,Male,African American,High School Graduate,Full Time,1
+584,163.20,1,38.4,1,1.089,1,Male,African American,High School Graduate,Full Time,1
+585,200.30,1,41.18,1,1.258,1,Male,African American,High School Graduate,Full Time,1
+586,370.70,1,39.91,1,1.279,1,Male,African American,High School Graduate,Full Time,1
+587,165.70,1,41.56,1,1.17,1,Male,African American,High School Graduate,Full Time,1
+588,475.20,1,39.64,1,1.276,1,Male,African American,High School Graduate,Full Time,1
+589,293.50,1,38.16,1,0.952,1,Male,African American,High School Graduate,Full Time,1
+590,192.60,1,40.33,1,1.086,1,Male,African American,High School Graduate,Part Time,1
+591,348.20,1,40.15,1,1.2,1,Male,African American,High School Graduate,Part Time,1
+592,301.10,1,40.08,1,0.997,1,Male,African American,High School Graduate,Part Time,1
+593,363.50,1,41.22,1,0.96,1,Male,African American,High School Graduate,Part Time,1
+594,427.60,1,41.14,1,0.948,1,Male,African American,High School Graduate,Part Time,1
+595,251.50,1,40.83,1,1.263,1,Male,African American,High School Graduate,Part Time,1
+596,241.90,1,38.12,1,1.021,1,Male,African American,High School Graduate,Part Time,1
+597,270.30,1,41.46,1,1.102,1,Male,African American,High School Graduate,Part Time,1
+598,233.00,1,37.73,1,0.871,1,Male,African American,High School Graduate,Part Time,1
+599,304.30,1,41.52,1,1.1,1,Male,African American,High School Graduate,Part Time,1
+600,330.00,1,37.5,1,1.097,1,Male,White,High School Graduate,Part Time,1
+601,231.30,1,41.02,1,0.98,1,Male,White,High School Graduate,Part Time,1
+602,492.40,1,41.39,1,0.809,1,Male,White,High School Graduate,Part Time,1
+603,484.90,1,40.85,1,1.043,1,Male,White,High School Graduate,Part Time,1
+604,252.50,1,40.05,1,0.818,1,Male,White,High School Graduate,Part Time,1
+605,356.60,1,38.25,1,1.187,1,Male,White,High School Graduate,Part Time,1
+606,225.90,1,38.43,1,1.053,1,Male,White,High School Graduate,Part Time,1
+607,174.00,1,41.3,1,1.261,1,Male,White,High School Graduate,Part Time,1
+608,480.10,1,41.54,1,0.889,1,Male,White,High School Graduate,Part Time,1
+609,359.50,1,38.95,1,0.805,1,Male,White,High School Graduate,Part Time,1
+610,176.00,1,40.45,1,1.193,1,Male,White,High School Graduate,Part Time,1
+611,367.20,1,40.95,1,1.17,1,Male,White,High School Graduate,Part Time,1
+612,267.40,1,37.82,1,1.136,1,Male,White,High School Graduate,Part Time,1
+613,388.30,1,38.96,1,1.01,1,Male,White,High School Graduate,Part Time,1
+614,464.30,1,40.47,1,0.833,1,Male,White,High School Graduate,Part Time,1
+615,471.40,1,37.47,1,0.868,1,Male,White,High School Graduate,Part Time,1
+616,402.30,1,40.59,1,1.141,1,Male,White,High School Graduate,Part Time,1
+617,283.90,1,38.56,1,1.253,1,Male,White,High School Graduate,Part Time,1
+618,369.50,1,37.97,1,0.82,1,Male,White,High School Graduate,Part Time,1
+619,357.00,1,38.67,1,1.142,1,Male,White,High School Graduate,Part Time,1
+620,403.40,1,40.63,1,1.095,1,Male,White,High School Graduate,Part Time,1
+621,360.50,1,39,1,1.16,1,Male,White,High School Graduate,Part Time,1
+622,493.40,1,40.12,1,0.986,1,Male,White,High School Graduate,Part Time,1
+623,205.80,1,41.13,1,1.112,1,Male,White,High School Graduate,Part Time,1
+624,368.60,1,39.48,1,0.997,1,Male,White,High School Graduate,Part Time,1
+625,467.50,1,37.71,1,1.011,1,Male,White,High School Graduate,Part Time,1
+626,460.50,1,41.54,1,1.052,1,Male,White,High School Graduate,Part Time,1
+627,457.80,1,39.61,1,1.186,1,Male,White,High School Graduate,Part Time,1
+628,367.10,1,39.14,1,0.999,1,Male,White,High School Graduate,Part Time,1
+629,226.50,1,39.94,1,0.806,1,Male,White,High School Graduate,Part Time,1
+630,267.80,1,37.97,1,0.947,1,Male,White,High School Graduate,Part Time,1
+631,156.20,1,38.46,1,1.168,1,Male,White,High School Graduate,Part Time,1
+632,433.80,1,38.79,1,1.195,1,Male,White,High School Graduate,Part Time,1
+633,354.90,1,41.05,1,1.041,1,Male,White,High School Graduate,Part Time,1
+634,497.90,1,37.71,1,1.246,1,Male,White,High School Graduate,Part Time,1
+635,288.60,1,39.86,1,0.928,1,Male,White,High School Graduate,Part Time,1
+636,190.90,1,39.59,1,0.837,1,Male,White,High School Graduate,Part Time,1
+637,480.80,1,37.37,1,0.859,1,Male,White,High School Graduate,Part Time,1
+638,256.90,1,38.35,1,1.07,1,Male,White,High School Graduate,Part Time,1
+639,314.10,1,39.98,1,0.995,1,Male,White,High School Graduate,Part Time,1
+640,337.70,1,39.43,1,1.029,1,Male,White,High School Graduate,Unemployed,1
+641,205.30,1,41.22,1,0.98,1,Male,White,High School Graduate,Unemployed,1
+642,251.80,1,40.72,1,0.878,1,Male,White,High School Graduate,Unemployed,1
+643,241.40,1,39.58,1,1.262,1,Male,White,High School Graduate,Unemployed,1
+644,230.50,1,41.56,1,0.862,1,Male,White,High School Graduate,Unemployed,1
+645,222.20,1,37.33,1,0.92,1,Male,White,High School Graduate,Unemployed,1
+646,198.60,1,38.48,1,1.265,1,Male,White,High School Graduate,Unemployed,1
+647,202.00,1,38.96,1,1.188,1,Male,White,High School Graduate,Unemployed,1
+648,412.30,1,41.12,1,0.829,1,Male,White,High School Graduate,Unemployed,1
+649,157.50,1,41.46,1,0.837,1,Male,White,High School Graduate,Unemployed,1
+650,277.70,1,37.78,1,1.195,1,Male,White,High School Graduate,Unemployed,1
+651,181.50,1,39.88,1,1.269,1,Male,White,High School Graduate,Unemployed,1
+652,333.80,1,38.18,1,1.187,1,Male,White,High School Graduate,Unemployed,1
+653,492.40,1,38.35,1,0.955,1,Male,White,High School Graduate,Unemployed,1
+654,349.70,1,40.96,1,0.977,1,Male,White,High School Graduate,Unemployed,1
+655,237.60,1,39.96,1,1.144,1,Male,White,High School Incomplete,Unemployed,1
+656,211.20,1,41.33,1,0.808,1,Male,White,High School Incomplete,Unemployed,1
+657,266.10,1,38.75,1,1.104,1,Male,White,High School Incomplete,Unemployed,1
+658,364.10,1,40.85,1,1.166,1,Male,White,High School Incomplete,Unemployed,1
+659,159.50,1,37.96,1,1.204,1,Male,White,High School Incomplete,Unemployed,1
+660,248.30,1,41.57,1,1.012,1,Male,White,High School Incomplete,Unemployed,1
+661,154.20,1,38.55,1,0.909,1,Male,White,High School Incomplete,Unemployed,1
+662,304.00,1,38.2,1,0.952,1,Male,White,High School Incomplete,Unemployed,1
+663,398.30,1,37.65,1,1.081,1,Male,White,High School Incomplete,Unemployed,1
+664,467.50,1,39.34,1,1.012,1,Male,White,High School Incomplete,Unemployed,1
+665,168.50,1,39.44,1,1.201,1,Male,White,High School Incomplete,Unemployed,1
+666,356.10,1,38.49,1,1.113,1,Male,White,High School Incomplete,Unemployed,1
+667,241.80,1,38.87,1,0.967,1,Male,White,High School Incomplete,Unemployed,1
+668,168.80,1,38.98,1,1.235,1,Male,White,High School Incomplete,Unemployed,1
+669,440.90,1,39.46,1,1.121,1,Male,White,High School Incomplete,Unemployed,1
+670,478.10,1,40.26,1,1.087,1,Male,White,High School Incomplete,Unemployed,1
+671,233.60,1,40.42,1,0.832,1,Male,White,High School Incomplete,Unemployed,1
+672,406.20,1,40.49,1,1.297,1,Male,White,High School Incomplete,Unemployed,1
+673,298.70,1,39.64,1,1.02,1,Male,White,High School Incomplete,Unemployed,1
+674,462.60,1,40.48,1,0.908,1,Male,White,High School Incomplete,Unemployed,1
+675,277.90,1,40.27,1,1.225,1,Male,White,High School Incomplete,Unemployed,1
+676,476.60,1,38.38,1,1.134,1,Male,White,High School Incomplete,Unemployed,1
+677,379.70,1,40.18,1,1.007,1,Male,White,High School Incomplete,Unemployed,1
+678,321.00,1,41.05,1,0.997,1,Male,White,High School Incomplete,Unemployed,1
+679,158.50,1,41.36,1,0.906,1,Male,White,High School Incomplete,Unemployed,1
+680,262.90,1,39.22,1,0.847,1,Male,White,High School Incomplete,Unemployed,1
+681,413.20,1,40.86,1,1.084,1,Male,White,High School Incomplete,Unemployed,1
+682,154.10,1,40.15,1,0.96,1,Male,White,High School Incomplete,Unemployed,1
+683,276.50,1,38.97,1,1.299,1,Male,White,High School Incomplete,Unemployed,1
+684,205.80,1,40.39,1,0.988,1,Male,White,High School Incomplete,Unemployed,1
+685,219.80,1,38.5,1,1.015,1,Male,White,High School Incomplete,Unemployed,1
+686,224.30,1,39.61,1,0.947,1,Male,White,High School Incomplete,Unemployed,1
+687,335.00,1,39.18,1,0.916,1,Male,White,High School Incomplete,Unemployed,1
+688,487.10,1,40.37,1,1.168,1,Male,White,High School Incomplete,Unemployed,1
+689,223.90,1,40.55,1,1.058,1,Male,White,High School Incomplete,Unemployed,1
+690,231.60,1,40.14,1,1.297,1,Male,White,High School Incomplete,Unemployed,1
+691,238.20,1,38.78,1,1.001,1,Male,White,High School Incomplete,Unemployed,1
+692,238.70,1,38.79,1,0.88,1,Male,White,High School Incomplete,Unemployed,1
+693,244.80,1,38.77,1,1.27,1,Male,White,High School Incomplete,Unemployed,1
+694,289.00,1,41.32,1,1.013,1,Male,White,High School Incomplete,Unemployed,1
+695,360.60,1,37.38,1,1.107,1,Male,White,High School Incomplete,Unemployed,1
+696,211.20,1,37.41,1,1.299,1,Male,White,High School Incomplete,Unemployed,1
+697,356.90,1,38.28,1,1.039,1,Male,White,High School Incomplete,Unemployed,1
+698,272.10,1,40.8,1,0.872,1,Male,White,High School Incomplete,Unemployed,1
+699,277.80,1,39.28,1,1.045,1,Male,White,High School Incomplete,Unemployed,1
+700,433.40,1,37.76,1,0.992,1,Male,White,High School Incomplete,Unemployed,1
+701,377.40,1,41.12,1,1.189,1,Male,White,High School Incomplete,Unemployed,1
+702,351.20,1,40.01,1,0.952,1,Male,White,High School Incomplete,Unemployed,1
+703,347.30,1,39.69,1,0.81,1,Male,White,High School Incomplete,Unemployed,1
+704,161.70,1,40.18,1,0.989,1,Male,White,High School Incomplete,Unemployed,1
+705,213.80,1,40.51,1,0.821,1,Male,White,High School Incomplete,Unemployed,1
+706,152.40,1,39.56,1,0.929,1,Male,White,High School Incomplete,Unemployed,1
+707,458.00,1,37.59,1,1.229,1,Male,White,High School Incomplete,Unemployed,1
+708,399.70,1,40.14,1,1.02,1,Male,White,High School Incomplete,Unemployed,1
+709,480.80,1,37.72,1,1.161,1,Male,White,High School Incomplete,Unemployed,1
+710,282.90,1,39.37,1,0.845,1,Male,White,High School Incomplete,Unemployed,1
+711,236.60,1,41.11,1,1.044,1,Male,White,High School Incomplete,Unemployed,1
+712,163.90,1,38.1,1,1.13,1,Male,White,High School Incomplete,Unemployed,1
+713,267.20,1,39.43,1,1.157,1,Male,White,High School Incomplete,Unemployed,1
+714,467.80,1,39.64,1,1.141,1,Male,White,High School Incomplete,Unemployed,1
+715,223.90,1,39.04,1,1.141,1,Male,White,High School Incomplete,Unemployed,1
+716,278.20,1,39.51,1,1.139,1,Male,White,High School Incomplete,Unemployed,1
+717,335.00,1,40.72,1,1.025,1,Male,White,High School Incomplete,Unemployed,1
+718,465.90,1,40.74,1,1.197,1,Male,White,High School Incomplete,Unemployed,1
+719,289.50,1,40.54,1,1.185,1,Male,White,High School Incomplete,Unemployed,1
+720,424.00,1,40.2,1,1.23,1,Male,White,High School Incomplete,Unemployed,1
+721,270.20,1,40.62,1,1.277,1,Male,White,High School Incomplete,Unemployed,1
+722,394.20,1,38.05,1,0.922,1,Male,White,High School Incomplete,Unemployed,1
+723,200.50,1,39.03,1,0.836,1,Male,White,High School Incomplete,Unemployed,1
+724,461.90,1,40.41,1,0.895,1,Male,White,High School Incomplete,Unemployed,1
+725,393.80,1,41.24,1,1.14,1,Male,White,High School Incomplete,Unemployed,1
+726,295.30,1,41.48,1,0.889,1,Male,White,High School Incomplete,Unemployed,1
+727,397.10,1,41.32,1,0.847,1,Male,White,High School Incomplete,Unemployed,1
+728,477.40,1,37.58,1,1.066,1,Male,White,High School Incomplete,Unemployed,1
+729,399.70,1,38.96,1,1.163,1,Male,White,High School Incomplete,Unemployed,1
+730,491.70,1,39.25,1,0.991,1,Male,White,High School Incomplete,Unemployed,1
+731,352.50,1,38.31,1,1.212,1,Male,White,High School Incomplete,Unemployed,1
+732,455.50,1,39.69,1,1.211,1,Male,White,High School Incomplete,Unemployed,1
+733,266.40,1,37.7,1,0.977,1,Male,White,High School Incomplete,Unemployed,1
+734,298.60,1,39.91,1,0.834,1,Male,White,High School Incomplete,Unemployed,1
+735,172.00,1,40.39,1,1.273,1,Male,White,High School Incomplete,Unemployed,1
+736,462.10,1,38.24,1,1.095,1,Male,White,High School Incomplete,Unemployed,1
+737,187.80,1,39.31,1,0.838,1,Male,White,High School Incomplete,Unemployed,1
+738,322.10,1,38.07,1,0.848,1,Male,White,High School Incomplete,Unemployed,1
+739,475.40,1,37.94,1,1.115,1,Male,White,High School Incomplete,Unemployed,1
+740,241.90,1,39.12,1,1.268,1,Male,White,High School Incomplete,Unemployed,1
+741,237.30,1,39.4,1,0.918,1,Male,White,High School Incomplete,Unemployed,1
+742,300.70,1,39.95,1,1.149,1,Male,White,High School Incomplete,Unemployed,1
+743,290.50,1,38.17,1,1.115,1,Male,White,High School Incomplete,Unemployed,1
+744,362.10,1,37.75,1,0.816,1,Male,White,High School Incomplete,Unemployed,1
+745,478.60,1,38.94,1,1.065,1,Male,White,High School Incomplete,Unemployed,1
+746,188.30,1,39.85,1,0.979,1,Male,White,High School Incomplete,Unemployed,1
+747,288.80,1,39.39,1,0.916,1,Male,White,High School Incomplete,Unemployed,1
+748,167.40,1,41.19,1,1.284,1,Male,White,High School Incomplete,Unemployed,1
+749,213.40,1,39.17,1,0.841,1,Male,White,High School Incomplete,Unemployed,1
+750,-389.80,1,37.71,1,1.227,1,Male,White,High School Incomplete,Unemployed,1
+751,-343.30,1,38.66,1,1.101,1,Male,White,High School Incomplete,Unemployed,1
+752,-169.80,1,37.62,1,1.127,1,Male,White,High School Incomplete,Unemployed,1
+753,-481.50,1,38.47,1,1.142,1,Male,White,High School Incomplete,Unemployed,1
+754,-479.60,1,40.42,1,1.184,1,Male,White,High School Incomplete,Unemployed,1
+755,-290.80,1,40.48,1,1.014,1,Male,White,High School Incomplete,Unemployed,1
+756,-381.10,1,41.19,1,1.148,1,Male,White,High School Incomplete,Unemployed,1
+757,-480.80,1,37.82,1,1.021,1,Male,White,High School Incomplete,Unemployed,1
+758,-296.50,1,39.33,1,1.294,1,Male,White,High School Incomplete,Unemployed,1
+759,-159.00,1,41.06,1,1.146,1,Male,White,High School Incomplete,Unemployed,1
+760,-376.10,1,37.45,1,0.861,1,Male,White,High School Incomplete,Unemployed,1
+761,-378.40,1,38.03,1,1.056,1,Male,White,High School Incomplete,Unemployed,1
+762,-414.10,1,39.35,1,0.94,1,Male,White,High School Incomplete,Unemployed,1
+763,-322.10,1,39.43,1,0.87,1,Male,White,High School Incomplete,Unemployed,1
+764,-361.70,1,41.16,1,0.814,1,Male,White,High School Incomplete,Unemployed,1
+765,-285.80,1,37.72,1,1.14,1,Male,White,High School Incomplete,Unemployed,1
+766,-416.70,1,39.76,1,1.186,1,Male,White,High School Incomplete,Unemployed,1
+767,-167.40,1,37.38,1,0.831,1,Male,White,High School Incomplete,Unemployed,1
+768,-361.90,1,37.72,1,0.901,1,Male,White,High School Incomplete,Unemployed,1
+769,-393.80,1,40.33,1,0.928,1,Male,White,High School Incomplete,Unemployed,1
+770,-259.40,1,41.06,1,0.911,1,Male,White,High School Incomplete,Unemployed,1
+771,-203.40,1,39.16,1,0.901,1,Male,White,High School Incomplete,Unemployed,1
+772,-241.80,1,41.2,1,0.925,1,Male,White,High School Incomplete,Unemployed,1
+773,-288.10,1,38.96,1,1.116,1,Male,White,High School Incomplete,Unemployed,1
+774,-297.40,1,37.78,1,1.067,1,Male,White,High School Incomplete,Unemployed,1
+775,-472.50,1,39.22,1,1.265,1,Male,White,High School Incomplete,Unemployed,1
+776,-436.80,1,37.36,1,1.022,1,Male,White,High School Incomplete,Unemployed,1
+777,-178.80,1,41.57,1,1.23,1,Male,White,High School Incomplete,Unemployed,1
+778,-435.90,1,40.76,1,0.837,1,Male,White,High School Incomplete,Unemployed,1
+779,-412.30,1,37.75,1,0.874,1,Male,White,High School Incomplete,Unemployed,1
+780,-317.80,1,37.64,1,0.874,1,Male,White,High School Incomplete,Unemployed,1
+781,-278.20,1,37.31,1,0.952,1,Male,White,High School Incomplete,Unemployed,1
+782,-150.20,1,38.64,1,0.812,1,Male,White,High School Incomplete,Unemployed,1
+783,-264.30,1,38.17,1,0.877,1,Male,White,High School Incomplete,Unemployed,1
+784,-280.40,1,39.81,1,1.029,1,Male,White,High School Incomplete,Unemployed,1
+785,-286.80,1,40.91,1,1.228,1,Male,White,High School Incomplete,Unemployed,1
+786,-350.10,1,41.03,1,0.86,1,Male,White,High School Incomplete,Unemployed,1
+787,-398.40,1,38.54,1,1.287,1,Male,White,High School Incomplete,Unemployed,1
+788,-213.50,1,40.23,1,0.838,1,Male,White,High School Incomplete,Unemployed,1
+789,-291.60,1,37.93,1,1.077,1,Male,White,High School Incomplete,Unemployed,1
+790,-456.60,1,40.65,1,0.902,1,Male,White,High School Incomplete,Unemployed,1
+791,-312.80,1,40.15,1,1.045,1,Male,White,High School Incomplete,Unemployed,1
+792,-374.90,1,39.25,1,1.08,1,Male,White,High School Incomplete,Unemployed,1
+793,-363.70,1,39.21,1,0.812,1,Male,White,High School Incomplete,Unemployed,1
+794,-217.50,1,39.02,1,1.002,1,Male,White,High School Incomplete,Unemployed,1
+795,-297.50,1,41.3,1,1.283,1,Male,White,High School Incomplete,Unemployed,1
+796,-445.40,1,37.85,1,0.875,1,Male,White,High School Incomplete,Unemployed,1
+797,-178.10,1,37.47,1,1.093,1,Male,White,High School Incomplete,Unemployed,1
+798,-414.10,1,39.72,1,0.841,1,Male,White,High School Incomplete,Unemployed,1
+799,-346.10,1,41.13,1,1.148,1,Male,White,High School Incomplete,Unemployed,1
+800,-348.70,1,28.97,1,0.852,1,Male,White,High School Incomplete,Unemployed,1
+801,-205.80,1,34.72,1,1.224,1,Male,White,High School Incomplete,Unemployed,1
+802,-153.50,1,31.5,1,0.836,1,Male,White,High School Incomplete,Unemployed,1
+803,-356.50,1,33.1,1,0.978,1,Male,White,High School Incomplete,Unemployed,1
+804,-350.60,1,30.41,1,1.015,1,Male,White,High School Incomplete,Unemployed,1
+805,-318.50,1,32.55,1,0.87,1,Male,White,High School Incomplete,Unemployed,1
+806,-451.60,1,29.4,1,0.837,1,Male,White,High School Incomplete,Unemployed,1
+807,-358.30,1,28.62,1,0.998,1,Male,White,High School Incomplete,Unemployed,1
+808,-171.60,1,29.58,1,0.805,1,Male,White,High School Incomplete,Unemployed,1
+809,-300.30,1,34.62,1,0.879,1,Male,White,High School Incomplete,Unemployed,1
+810,-381.70,1,29.95,1,1.259,1,Male,White,High School Incomplete,Unemployed,1
+811,-162.60,1,33.25,1,0.871,1,Male,White,High School Incomplete,Unemployed,1
+812,-422.50,1,29.99,1,1.096,1,Male,White,High School Incomplete,Unemployed,1
+813,-340.10,1,34.67,1,1.179,1,Male,White,High School Incomplete,Unemployed,1
+814,-332.90,1,32.47,1,0.824,1,Male,White,High School Incomplete,Unemployed,1
+815,-160.20,1,33.22,1,0.812,1,Male,White,High School Incomplete,Unemployed,1
+816,-402.10,1,30.27,1,1.053,1,Male,White,High School Incomplete,Unemployed,1
+817,-214.40,1,30.15,1,1.058,1,Male,White,High School Incomplete,Unemployed,1
+818,-151.90,1,32.75,1,1.218,1,Male,White,High School Incomplete,Unemployed,1
+819,-456.30,1,33.16,1,1.166,1,Male,White,High School Incomplete,Unemployed,1
+820,-349.50,1,28.04,1,1.063,1,Male,White,High School Incomplete,Unemployed,1
+821,-385.80,1,31.91,1,1.177,1,Female,White,High School Incomplete,Unemployed,1
+822,-204.10,1,29.49,1,1.219,1,Female,White,High School Incomplete,Unemployed,1
+823,-449.10,1,32.42,1,1.175,1,Female,White,High School Incomplete,Unemployed,1
+824,-357.70,1,32.41,1,1.014,1,Female,White,High School Incomplete,Unemployed,1
+825,-453.10,1,29.94,1,0.866,1,Female,White,High School Incomplete,Unemployed,1
+826,-331.50,1,33.58,1,0.811,1,Female,White,High School Incomplete,Unemployed,1
+827,-206.00,1,28.45,1,0.828,1,Female,White,High School Incomplete,Unemployed,1
+828,-279.70,1,32.31,1,0.937,1,Female,White,High School Incomplete,Unemployed,1
+829,-446.00,1,32.93,1,1.199,1,Female,White,High School Incomplete,Unemployed,1
+830,-432.90,1,32.31,1,1.061,1,Female,White,High School Incomplete,Unemployed,1
+831,-248.60,1,28.6,1,1.196,1,Female,White,High School Incomplete,Unemployed,1
+832,-445.10,1,34.48,1,0.848,1,Female,White,High School Incomplete,Unemployed,1
+833,-204.80,1,31.88,1,1.104,1,Female,White,High School Incomplete,Unemployed,1
+834,-420.70,1,28.51,1,0.919,1,Female,White,High School Incomplete,Unemployed,1
+835,-478.50,1,28.63,1,0.863,1,Female,White,High School Incomplete,Unemployed,1
+836,-340.00,1,33.91,1,1.164,1,Female,White,High School Incomplete,Unemployed,1
+837,-358.40,1,29.35,1,1.103,1,Female,White,High School Incomplete,Unemployed,1
+838,-318.00,1,34.23,1,1.12,1,Female,White,High School Incomplete,Unemployed,1
+839,-470.60,1,35.59,1,0.816,1,Female,White,High School Incomplete,Unemployed,1
+840,-442.40,1,31.93,1,1.009,1,Female,White,High School Incomplete,Unemployed,1
+841,-412.60,1,34.34,1,0.822,1,Female,White,High School Incomplete,Unemployed,1
+842,-241.60,1,35.78,1,1.002,1,Female,White,High School Incomplete,Unemployed,1
+843,-256.70,1,34.32,1,1.212,1,Female,White,High School Incomplete,Unemployed,1
+844,-247.00,1,33.52,1,0.842,1,Female,White,High School Incomplete,Unemployed,1
+845,-182.70,1,32.36,1,1.295,1,Female,White,High School Incomplete,Unemployed,1
+846,-307.10,1,28.08,1,1.212,1,Female,White,High School Incomplete,Unemployed,1
+847,-460.80,1,32.72,1,1.07,1,Female,White,High School Incomplete,Unemployed,1
+848,-461.90,1,34.7,1,1.062,1,Female,White,High School Incomplete,Unemployed,1
+849,-232.60,1,31.15,1,1.141,1,Female,White,High School Incomplete,Unemployed,1
+850,-270.90,1,35.03,1,1.234,1,Female,White,High School Incomplete,Unemployed,1
+851,-423.30,1,35.68,1,1.144,1,Female,White,High School Incomplete,Unemployed,1
+852,-215.40,1,30.21,1,0.896,1,Female,White,High School Incomplete,Unemployed,1
+853,-436.80,1,33.42,1,1.127,1,Female,White,High School Incomplete,Unemployed,1
+854,-304.20,1,29.92,1,1.09,1,Female,White,High School Incomplete,Unemployed,1
+855,-287.40,1,33.41,1,0.959,1,Female,White,High School Incomplete,Unemployed,1
+856,-423.40,1,35.47,1,0.826,1,Female,White,High School Incomplete,Unemployed,1
+857,-176.90,1,34.88,1,1.294,1,Female,White,High School Incomplete,Unemployed,1
+858,-401.70,1,30.58,1,1.271,1,Female,White,High School Incomplete,Unemployed,1
+859,-494.50,1,32.66,1,0.999,1,Female,White,High School Incomplete,Unemployed,1
+860,-356.50,1,35.58,1,1.186,1,Female,White,High School Incomplete,Unemployed,1
+861,-470.60,1,31.66,1,0.906,1,Female,White,High School Incomplete,Unemployed,1
+862,-469.00,1,34.62,1,1.03,1,Female,White,High School Incomplete,Unemployed,1
+863,-408.80,1,28.11,1,1.227,1,Female,White,High School Incomplete,Unemployed,1
+864,-213.60,1,34.62,1,0.952,1,Female,White,High School Incomplete,Unemployed,1
+865,-357.10,1,28.17,1,1.15,1,Female,White,High School Incomplete,Unemployed,1
+866,-169.10,1,30.21,1,0.952,1,Female,White,High School Incomplete,Unemployed,1
+867,-415.80,1,32.67,1,0.898,1,Female,White,High School Incomplete,Unemployed,1
+868,-162.70,1,32.68,1,0.952,1,Female,White,High School Incomplete,Unemployed,1
+869,-226.70,1,32.69,1,1.215,1,Female,White,High School Incomplete,Unemployed,1
+870,-307.40,1,30.02,1,0.903,1,Female,White, High School Incomplete,Unemployed,1
+871,-277.10,1,31.5,1,1.259,1,Female,White, High School Incomplete,Unemployed,1
+872,-439.60,1,35.64,1,1.293,1,Female,White, High School Incomplete,Unemployed,1
+873,-360.00,1,30.71,1,0.899,1,Female,White, High School Incomplete,Unemployed,1
+874,-173.60,1,29.02,1,0.966,1,Female,White, High School Incomplete,Unemployed,1
+875,-372.00,1,35.18,1,1.227,1,Female,White, High School Incomplete,Unemployed,1
+876,-392.10,1,34.07,1,1.207,1,Female,White, High School Incomplete,Unemployed,1
+877,-430.60,1,33.29,1,0.904,1,Female,White, High School Incomplete,Unemployed,1
+878,-462.80,1,29.6,1,0.863,1,Female,White, High School Incomplete,Unemployed,1
+879,-413.60,1,33.03,1,1.029,1,Female,White, High School Incomplete,Unemployed,1
+880,-162.90,1,34.58,1,0.88,1,Female,White, High School Incomplete,Unemployed,1
+881,-208.80,1,30.41,1,0.837,1,Female,White, High School Incomplete,Unemployed,1
+882,-181.50,1,33.47,1,1.254,1,Female,White, High School Incomplete,Unemployed,1
+883,-397.50,1,32.15,1,1.277,1,Female,White, High School Incomplete,Unemployed,1
+884,-215.20,1,29.79,1,1.269,1,Female,White, High School Incomplete,Unemployed,1
+885,-474.00,1,30.14,1,1.039,1,Female,White, High School Incomplete,Unemployed,1
+886,-345.30,1,31.57,1,0.808,1,Female,White, High School Incomplete,Unemployed,1
+887,-190.60,1,30.99,1,1.073,1,Female,White, High School Incomplete,Unemployed,1
+888,-486.60,1,33.94,1,0.863,1,Female,White, High School Incomplete,Unemployed,1
+889,-230.20,1,32.71,1,1.1,1,Female,White, High School Incomplete,Unemployed,1
+890,-210.60,1,32.82,1,0.908,1,Female,White, High School Incomplete,Unemployed,1
+891,-345.60,1,28.85,1,1.167,1,Female,White, High School Incomplete,Unemployed,1
+892,-478.90,1,34.84,1,0.801,1,Female,White, High School Incomplete,Unemployed,1
+893,-203.70,1,28.74,1,0.934,1,Female,White, High School Incomplete,Unemployed,1
+894,-194.00,1,30.26,1,0.917,1,Female,White, High School Incomplete,Unemployed,1
+895,-397.40,1,29.76,1,0.91,1,Female,White, High School Incomplete,Unemployed,1
+896,-489.60,1,34.24,1,0.946,1,Female,White, High School Incomplete,Unemployed,1
+897,-191.70,1,34.86,1,1.081,1,Female,White, High School Incomplete,Unemployed,1
+898,-244.00,1,33.94,1,0.971,1,Female,White, High School Incomplete,Unemployed,1
+899,-444.00,1,32.28,1,1.12,1,Female,White, High School Incomplete,Unemployed,1
+900,-468.20,1,28.75,1,0.853,1,Female,White, High School Incomplete,Unemployed,1
+901,-169.50,1,31.27,1,0.929,1,Female,White, High School Incomplete,Unemployed,1
+902,-493.10,1,31.67,1,0.878,1,Female,White, High School Incomplete,Unemployed,1
+903,-154.50,1,32.43,1,1.237,1,Female,White, High School Incomplete,Unemployed,1
+904,-463.00,1,28.34,1,0.885,1,Female,White, High School Incomplete,Unemployed,1
+905,-309.00,1,28.05,1,1,1,Female,White, High School Incomplete,Unemployed,1
+906,-213.70,1,31.12,1,1.244,1,Female,White, High School Incomplete,Unemployed,1
+907,-275.30,1,29.42,1,1.072,1,Female,White, High School Incomplete,Unemployed,1
+908,-151.80,1,28.49,1,0.892,1,Female,White, High School Incomplete,Unemployed,1
+909,-315.40,1,29.58,1,1.039,1,Female,White, High School Incomplete,Unemployed,1
+910,-227.80,1,28.4,1,1.035,1,Female,White, High School Incomplete,Unemployed,1
+911,-497.50,1,34.12,1,1.157,1,Female,White, High School Incomplete,Unemployed,1
+912,-207.70,1,31.21,1,1.053,1,Female,White, High School Incomplete,Unemployed,1
+913,-177.80,1,30.37,1,0.956,1,Female,White, High School Incomplete,Unemployed,1
+914,-428.00,1,33.78,1,0.806,1,Female,White, High School Incomplete,Unemployed,1
+915,-427.60,1,35.77,1,1.039,1,Female,White, High School Incomplete,Unemployed,1
+916,-364.10,1,30.53,1,1.23,1,Female,White, High School Incomplete,Unemployed,1
+917,-277.40,1,34.43,1,1.137,1,Female,White, High School Incomplete,Unemployed,1
+918,-156.90,1,33.88,1,1.284,1,Female,White, High School Incomplete,Unemployed,1
+919,-420.70,1,33.96,1,1.223,1,Female,White, High School Incomplete,Unemployed,1
+920,-236.20,1,30.33,1,0.904,1,Female,White, High School Incomplete,Unemployed,1
+921,-361.80,1,29.71,1,0.812,1,Female,White, High School Incomplete,Unemployed,1
+922,-158.80,1,29.96,1,1.279,1,Female,White, High School Incomplete,Unemployed,1
+923,-262.50,1,31.71,1,1.107,1,Female,White, High School Incomplete,Unemployed,1
+924,-154.00,1,30.44,1,1.208,1,Female,White, High School Incomplete,Unemployed,1
+925,-166.70,1,34.45,1,0.807,1,Female,Asian, High School Incomplete,Unemployed,1
+926,-270.10,1,33.58,1,1.046,1,Female,Asian, High School Incomplete,Unemployed,1
+927,-199.60,1,31.3,1,1.266,1,Female,Asian, High School Incomplete,Unemployed,1
+928,-212.50,1,30.76,1,1.009,1,Female,Asian, High School Incomplete,Unemployed,1
+929,-332.80,1,35.46,1,1.202,1,Female,Asian, High School Incomplete,Unemployed,1
+930,-401.60,1,33.66,1,0.901,1,Female,American Indian, High School Incomplete,Unemployed,1
+931,-263.90,1,28.89,1,1.16,1,Female,American Indian, High School Incomplete,Unemployed,1
+932,-242.40,1,30.3,1,0.817,1,Female,American Indian, High School Incomplete,Unemployed,1
+933,-302.50,1,31.06,1,0.979,1,Female,American Indian, High School Incomplete,Unemployed,1
+934,-294.50,1,34.33,1,0.875,1,Female,American Indian, High School Incomplete,Unemployed,1
+935,-280.90,1,28.72,1,0.848,1,Female,American Indian, High School Incomplete,Unemployed,1
+936,-159.50,1,28.11,1,1.247,1,Female,American Indian, High School Incomplete,Unemployed,1
+937,-411.40,1,35.45,1,1.083,1,Female,American Indian, High School Incomplete,Unemployed,1
+938,-407.50,1,33.56,1,0.853,1,Female,American Indian, High School Incomplete,Unemployed,1
+939,-229.90,1,28.53,1,1.1,1,Female,American Indian, High School Incomplete,Unemployed,1
+940,-270.10,1,29.39,1,1.254,1,Female,Latino, High School Incomplete,Unemployed,1
+941,-419.40,1,35.13,1,1.083,1,Female,Latino, High School Incomplete,Unemployed,1
+942,-411.50,1,34.17,1,1.177,1,Female,Latino, High School Incomplete,Unemployed,1
+943,-460.30,1,34.25,1,1.25,1,Female,Latino, High School Incomplete,Unemployed,1
+944,-446.10,1,28.09,1,1.046,1,Female,Latino, High School Incomplete,Unemployed,1
+945,-186.10,1,31.43,1,0.813,1,Female,Latino, High School Incomplete,Unemployed,1
+946,-300.10,1,33.3,1,1.206,1,Female,Latino, High School Incomplete,Unemployed,1
+947,-370.00,1,31.59,1,1.292,1,Female,Latino, High School Incomplete,Unemployed,1
+948,-332.20,1,32.22,1,1.167,1,Female,Latino, High School Incomplete,Unemployed,1
+949,-446.20,1,31.9,1,0.879,1,Female,Latino, High School Incomplete,Unemployed,1
+950,-373.70,1,35.73,1,0.819,1,Female,Latino, High School Incomplete,Unemployed,1
+951,-321.20,1,30.61,1,0.974,1,Female,Latino, High School Incomplete,Unemployed,1
+952,-378.60,1,30.74,1,1.006,1,Female,Latino, High School Incomplete,Unemployed,1
+953,-219.20,1,32.32,1,1.04,1,Female,Latino, High School Incomplete,Unemployed,1
+954,-150.00,1,28.19,1,1.17,1,Female,Latino, High School Incomplete,Unemployed,1
+955,-389.90,1,33.19,1,0.954,1,Female,Latino, High School Incomplete,Unemployed,1
+956,-409.60,1,30.28,1,1.237,1,Female,Latino, High School Incomplete,Unemployed,1
+957,-464.90,1,34.63,1,0.818,1,Female,Latino, High School Incomplete,Unemployed,1
+958,-465.90,1,34.74,1,1.242,1,Female,Latino, High School Incomplete,Unemployed,1
+959,-188.10,1,28.39,1,0.81,1,Female,Latino, High School Incomplete,Unemployed,1
+960,-343.50,1,30.89,1,0.859,1,Female,Latino, High School Incomplete,Unemployed,1
+961,-453.10,1,33.18,1,1.261,1,Female,Latino, High School Incomplete,Unemployed,1
+962,-333.10,1,35.15,1,1.147,1,Female,Latino, High School Incomplete,Unemployed,1
+963,-340.40,1,30.63,1,1.1,1,Female,Latino, High School Incomplete,Unemployed,1
+964,-496.80,1,28.67,1,1.099,1,Female,Latino, High School Incomplete,Unemployed,1
+965,-465.40,1,34.36,1,0.988,1,Female,Latino, High School Incomplete,Unemployed,1
+966,-428.40,1,33.1,1,1.273,1,Female,Latino, High School Incomplete,Unemployed,1
+967,-395.30,1,32.15,1,1.12,1,Female,Latino, High School Incomplete,Unemployed,1
+968,-397.20,1,30.05,1,0.914,1,Female,Latino, High School Incomplete,Unemployed,1
+969,-433.40,1,32.21,1,1.147,1,Female,Latino, High School Incomplete,Unemployed,1
+970,-437.30,1,35.7,1,1.098,1,Female,Latino, High School Incomplete,Unemployed,1
+971,-263.00,1,32.5,1,1.064,1,Female,Latino, High School Incomplete,Unemployed,1
+972,-234.20,1,35.43,1,1.023,1,Female,Latino, High School Incomplete,Unemployed,1
+973,-162.20,1,34.06,1,0.979,1,Female,Latino, High School Incomplete,Unemployed,1
+974,-240.10,1,32.82,1,0.865,1,Female,Latino, High School Incomplete,Unemployed,1
+975,-361.20,1,30.36,1,1.196,1,Female,Latino, High School Incomplete,Unemployed,1
+976,-152.00,1,33.36,1,0.91,1,Female,Latino, High School Incomplete,Unemployed,1
+977,-175.40,1,32.61,1,0.988,1,Female,Latino, High School Incomplete,Unemployed,1
+978,-367.60,1,29.31,1,1.225,1,Female,Latino, High School Incomplete,Unemployed,1
+979,-212.30,1,33.1,1,1.147,1,Female,Latino, High School Incomplete,Unemployed,1
+980,-153.80,1,33.17,1,0.871,1,Female,Latino, High School Incomplete,Unemployed,1
+981,-350.40,1,31.01,1,0.827,1,Female,Latino, High School Incomplete,Unemployed,1
+982,-195.90,1,31.25,1,0.982,1,Female,Latino, High School Incomplete,Unemployed,1
+983,-190.30,1,32.24,1,1.216,1,Female,Latino, High School Incomplete,Unemployed,1
+984,-381.40,1,30.41,1,0.842,1,Female,Latino, High School Incomplete,Unemployed,1
+985,-239.20,1,28.52,1,0.974,1,Female,Latino, High School Incomplete,Unemployed,1
+986,-242.30,1,29.15,1,1.187,1,Female,Latino, High School Incomplete,Unemployed,1
+987,-340.50,1,32.89,1,0.952,1,Female,Latino, High School Incomplete,Unemployed,1
+988,-263.50,1,33.01,1,0.853,1,Female,Latino, High School Incomplete,Unemployed,1
+989,-239.20,1,29.05,1,1.191,1,Female,Latino, High School Incomplete,Unemployed,1
+990,-331.80,1,29.28,1,0.975,1,Female,Other, High School Incomplete,Unemployed,1
+991,-226.80,1,28.1,1,0.9,1,Female,Other, High School Incomplete,Unemployed,1
+992,-291.90,1,33.56,1,1.008,1,Female,Other, High School Incomplete,Unemployed,1
+993,-350.60,1,32.32,1,0.984,1,Female,Other, High School Incomplete,Unemployed,1
+994,-156.10,1,30.39,1,0.898,1,Female,Other, High School Incomplete,Unemployed,1
+995,-445.10,1,28.5,1,1.141,1,Female,Other, High School Incomplete,Unemployed,1
+996,-317.00,1,29.06,1,1.207,1,Female,Other, High School Incomplete,Unemployed,1
+997,-368.50,1,32.49,1,0.978,1,Female,Other, High School Incomplete,Unemployed,1
+998,-494.60,1,34.18,1,1.124,1,Female,Other, High School Incomplete,Unemployed,1
+999,-386.50,1,29.55,1,1.032,1,Female,Other, High School Incomplete,Unemployed,1
+1000,-445.30,1,31.28,1,0.854,1,Female,Other, High School Incomplete,Unemployed,1
